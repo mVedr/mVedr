@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on [Orange.io](https://play.google.com/store/apps/details?id=com.mvedr.orangeio)
 
-- 🌱 I’m currently learning **flutter and DSA**
-
-- 📝 I regularly write articles on [https://vedcreation.com/](https://vedcreation.com/)
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **vedrecharla@gmail.com**
 
