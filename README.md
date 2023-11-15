@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ved_2805" target="blank"><img src="https://img.shields.io/twitter/follow/ved_2805?logo=twitter&style=for-the-badge" alt="ved_2805" /></a> </p>
 
-- 🔭 I’m currently working on [Orange.io](https://play.google.com/store/apps/details?id=com.mvedr.orangeio)
+- 🔭 I’m currently working on **ComicWiki**
 
 - 🌱 I’m currently learning **Kubernetes**
 
